@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TCT",
+    "TBT",
+    "TCT" 
+  ],
+  "key": {
+  
+    "B": {
+      "item": "nightsouls:blank_music_disc"
+    },
+    
+    "C": {
+      "item": "nightsouls:cranite_ingot"
+    },
+    
+    "T": {
+      "item": "minecraft:tnt"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:kira_music_disc"
+  }
+}

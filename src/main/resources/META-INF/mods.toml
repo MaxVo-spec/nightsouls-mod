@@ -1,0 +1,40 @@
+modLoader="javafml"
+
+loaderVersion="[31,)"
+
+[[mods]] 
+
+modId="nightsouls" 
+version="0.2" 
+displayName="NightSouls Mod" 
+
+logoFile="icon.png" 
+
+credits="Thank you to Miizeal, Crane and Basti !"
+
+authors="Made by Saitaquack. Structures by Miizeal and Krahne." 
+
+description='''
+
+The NightSouls Team has taken over Minecraft, and they will do anything to become gods !
+
+'''
+
+[[dependencies.nightsouls]] 
+
+    modId="forge" #mandatory
+ 
+    mandatory=true #mandatory
+
+    versionRange="[31,)" 
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.nightsouls]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

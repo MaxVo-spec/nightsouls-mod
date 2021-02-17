@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "MTM",
+    " M " 
+  ],
+  "key": {
+  
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:miizealite_seeds",
+    "count": 2
+  }
+}

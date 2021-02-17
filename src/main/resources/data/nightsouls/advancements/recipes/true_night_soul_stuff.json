@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:basti_binary_wings",
+      "nightsouls:hellfire_emperor_trident",
+      "nightsouls:soul_stealer",
+      "nightsouls:frostburn",
+      "nightsouls:asteroid_smasher",
+      "nightsouls:galactic_slayer",
+      "nightsouls:java_fury",
+      "nightsouls:bow_ser",
+      "nightsouls:hallowed_paladin_helmet",
+      "nightsouls:hallowed_paladin_chestplate",
+      "nightsouls:hallowed_paladin_leggings",
+      "nightsouls:hallowed_paladin_boots",
+      "nightsouls:hellfire_emperor_helmet",
+      "nightsouls:hellfire_emperor_chestplate",
+      "nightsouls:hellfire_emperor_leggings",
+      "nightsouls:hellfire_emperor_boots",
+      "nightsouls:milky_way_helmet",
+      "nightsouls:milky_way_chestplate",
+      "nightsouls:milky_way_leggings",
+      "nightsouls:milky_way_boots",
+      "nightsouls:binary_helmet",
+      "nightsouls:binary_chestplate",
+      "nightsouls:binary_leggings",
+      "nightsouls:binary_boots",
+      "nightsouls:saitastone_seeds",
+      "nightsouls:miizealite_seeds",
+      "nightsouls:cranite_seeds",
+      "nightsouls:bastirite_seeds"
+    ]
+  },
+  "criteria": {
+    "has_true_night_soul": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:true_night_soul"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_true_night_soul",
+    ]
+  ]
+}

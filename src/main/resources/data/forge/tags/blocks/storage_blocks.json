@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "nightsouls:saitastone_block",
+    "nightsouls:miizealite_block",
+    "nightsouls:cranite_block",
+    "nightsouls:bastirite_block"
+  ]
+}

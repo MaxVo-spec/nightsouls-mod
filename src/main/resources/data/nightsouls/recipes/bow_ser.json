@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "TWT",
+    "MBM"
+  ],
+  "key": {
+  
+    "W": {
+      "item": "nightsouls:miizealite_bow"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:miizealite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:bow_ser"
+  }
+}

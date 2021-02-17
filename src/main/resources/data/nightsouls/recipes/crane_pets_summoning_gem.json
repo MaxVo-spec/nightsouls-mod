@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CEC" 
+  ],
+  "key": {
+  
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    
+    "C": {
+      "item": "nightsouls:cranite_ingot"
+    }
+  },
+  "result": {
+    "item": "nightsouls:crane_pets_summoning_gem"
+  }
+}

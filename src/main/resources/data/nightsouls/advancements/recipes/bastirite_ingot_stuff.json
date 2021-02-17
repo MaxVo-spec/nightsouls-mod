@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:bastirite_block",
+      "nightsouls:bastirite_sword",
+      "nightsouls:bastirite_pickaxe",
+      "nightsouls:bastirite_axe",
+      "nightsouls:bastirite_shovel",
+      "nightsouls:bastirite_hoe",
+      "nightsouls:bastirite_helmet",
+      "nightsouls:bastirite_chestplate",
+      "nightsouls:bastirite_leggings",
+      "nightsouls:bastirite_boots",
+      "nightsouls:insta_pickaxe",
+      "nightsouls:justin_bridou",
+      "nightsouls:elytra",
+      "nightsouls:shulker_shell",
+      "nightsouls:magic_mirror",
+      "nightsouls:totem_of_undying"
+    ]
+  },
+  "criteria": {
+    "has_bastirite_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:bastirite_ingot"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_bastirite_ingot",
+    ]
+  ]
+}

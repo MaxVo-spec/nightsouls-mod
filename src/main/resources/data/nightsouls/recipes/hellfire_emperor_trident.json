@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "TST",
+    "MBM"
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:miizealite_sword"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:miizealite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hellfire_emperor_trident"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "MBM",
+    " S " 
+  ],
+  "key": {
+  
+    "B": {
+      "item": "nightsouls:blank_music_disc"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:hopes_and_dreams_music_disc"
+  }
+}

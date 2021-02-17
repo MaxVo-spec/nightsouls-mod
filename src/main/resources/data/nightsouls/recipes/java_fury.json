@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BLB",
+    "TST",
+    "BLB"
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:bastirite_sword"
+    },
+    
+    "B": {
+      "item": "nightsouls:bastirite_ingot"
+    },
+    
+    "L": {
+      "item": "nightsouls:bastirite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:java_fury"
+  }
+}

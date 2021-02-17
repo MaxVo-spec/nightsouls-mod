@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MEM",
+    "MMM" 
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:wraith_form"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "TWT",
+    "SBS"
+  ],
+  "key": {
+  
+    "W": {
+      "item": "nightsouls:saitastone_sword"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:saitastone_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:galactic_slayer"
+  }
+}

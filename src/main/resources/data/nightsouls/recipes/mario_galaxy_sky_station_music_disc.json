@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SBS",
+    " S " 
+  ],
+  "key": {
+  
+    "B": {
+      "item": "nightsouls:blank_music_disc"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:mario_galaxy_sky_station_music_disc"
+  }
+}

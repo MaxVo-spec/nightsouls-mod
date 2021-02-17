@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SGS",
+    "SSS" 
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:take_a_breather"
+  }
+}

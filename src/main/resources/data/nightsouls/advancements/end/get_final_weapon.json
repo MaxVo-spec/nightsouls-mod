@@ -1,0 +1,104 @@
+{
+  "parent": "nightsouls:end/get_true_night_soul",
+  "display": {
+    "icon": {
+      "item": "nightsouls:galactic_slayer"
+    },
+    "title": {
+      "translate": "advancements.end.get_final_weapon.title"
+    },
+    "description": {
+      "translate": "advancements.end.get_final_weapon.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "criteria": {
+    "weapon1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:hellfire_emperor_trident"
+          }
+        ]
+      }
+    },
+     "weapon2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:soul_stealer"
+          }
+        ]
+      }
+    },
+    "weapon3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:bow_ser"
+          }
+        ]
+      }
+    },
+    "weapon4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:frostburn"
+          }
+        ]
+      }
+    },
+     "weapon5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:asteroid_smasher"
+          }
+        ]
+      }
+    },
+     "weapon6": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:galactic_slayer"
+          }
+        ]
+      }
+    },
+     "weapon7": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:java_fury"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "weapon1",
+      "weapon2",
+      "weapon3",
+      "weapon4",
+      "weapon5",
+      "weapon6",
+      "weapon7"
+    ]
+  ]
+}

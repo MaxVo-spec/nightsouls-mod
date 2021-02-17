@@ -1,0 +1,182 @@
+{
+	"super_star": {
+		"category": "master",
+		"subtitle": "Super Star Used",
+		"sounds": [
+			{
+				"name": "nightsouls:master/super_star",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"molten_core": {
+		"category": "master",
+		"subtitle": "Molten Core Used",
+		"sounds": [
+			{
+				"name": "nightsouls:master/molten_core",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"wraith_form": {
+		"category": "master",
+		"subtitle": "Wraith Form Used",
+		"sounds": [
+			{
+				"name": "nightsouls:master/wraith_form",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"take_a_breather": {
+		"category": "master",
+		"subtitle": "Took a Breather",
+		"sounds": [
+			{
+				"name": "nightsouls:master/take_a_breather",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"amp_it_up": {
+		"category": "master",
+		"subtitle": "Volume Raised",
+		"sounds": [
+			{
+				"name": "nightsouls:master/amp_it_up",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"life_crystal": {
+		"category": "master",
+		"subtitle": "Life Crystal Consumed",
+		"sounds": [
+			{
+				"name": "nightsouls:master/life_crystal",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"salut": {
+		"category": "master",
+		"subtitle": "Salut Fanta",
+		"sounds": [
+			{
+				"name": "nightsouls:master/salut",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"magic_mirror": {
+		"category": "master",
+		"subtitle": "Magic Mirror Used",
+		"sounds": [
+			{
+				"name": "nightsouls:master/magic_mirror",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"star_bit": {
+		"category": "master",
+		"subtitle": "Star Bit Appeared",
+		"sounds": [
+			{
+				"name": "nightsouls:master/star_bit",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"mario_galaxy_sky_station": {
+		"category": "music",
+		"subtitle": "Mario Galaxy Sky Station Music",
+		"sounds": [
+			{
+				"name": "nightsouls:music/mario_galaxy_sky_station",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"mario_galaxy_credits": {
+		"category": "music",
+		"subtitle": "Mario Galaxy Credits Music",
+		"sounds": [
+			{
+				"name": "nightsouls:music/mario_galaxy_credits",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"hopes_and_dreams": {
+		"category": "music",
+		"subtitle": "Hopes and Dreams Music",
+		"sounds": [
+			{
+				"name": "nightsouls:music/hopes_and_dreams",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"toto_africa": {
+		"category": "music",
+		"subtitle": "Toto Africa Music",
+		"sounds": [
+			{
+				"name": "nightsouls:music/toto_africa",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"kira": {
+		"category": "music",
+		"subtitle": "Kira Music",
+		"sounds": [
+			{
+				"name": "nightsouls:music/kira",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"nounours": {
+		"category": "music",
+		"subtitle": "Nounours Rap",
+		"sounds": [
+			{
+				"name": "nightsouls:music/nounours",
+				"stream": true
+			}
+		]
+		
+	}
+	
+}

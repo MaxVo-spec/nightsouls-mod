@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "TAT",
+    "III"
+  ],
+  "key": {
+  
+    "I": {
+      "item": "nightsouls:bastirite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:bastirite_block"
+    },
+    
+    "A": {
+      "item": "nightsouls:bastirite_boots"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:binary_boots"
+  }
+}

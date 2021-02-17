@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "NDN",
+    "SSS" 
+  ],
+  "key": {
+  
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    
+    "B": {
+      "item": "nightsouls:bastirite_ingot"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "N": {
+      "item": "nightsouls:night_soul"
+    }
+      
+    
+  },
+  "result": {
+    "item": "nightsouls:magic_mirror"
+  }
+}

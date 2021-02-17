@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "MBM",
+    " M " 
+  ],
+  "key": {
+  
+    "B": {
+      "item": "nightsouls:blank_music_disc"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:nounours_music_disc"
+  }
+}

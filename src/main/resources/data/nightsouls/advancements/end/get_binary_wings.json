@@ -1,0 +1,35 @@
+{
+  "parent": "nightsouls:end/get_true_night_soul",
+  "display": {
+    "icon": {
+      "item": "nightsouls:basti_binary_wings"
+    },
+    "title": {
+      "translate": "advancements.end.get_binary_wings.title"
+    },
+    "description": {
+      "translate": "advancements.end.get_binary_wings.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "binary_wings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:basti_binary_wings"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "binary_wings"
+    ]
+  ]
+}

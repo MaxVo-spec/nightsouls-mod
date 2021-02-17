@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "NIN",
+    "CCC"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    
+    "N": {
+      "item": "nightsouls:night_soul"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "C": {
+      "item": "nightsouls:cranite_ingot"
+    }
+  },
+  "result": {
+    "item": "nightsouls:reinhardt_hammer"
+  }
+}

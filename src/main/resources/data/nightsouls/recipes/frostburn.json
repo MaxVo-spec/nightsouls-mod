@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "TST",
+    "CBC"
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:cranite_sword"
+    },
+    
+    "C": {
+      "item": "nightsouls:cranite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:cranite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:frostburn"
+  }
+}

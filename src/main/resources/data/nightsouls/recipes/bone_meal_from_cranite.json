@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "nightsouls:cranite_ingot"}
+    
+  ],
+  
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 12
+  }
+}

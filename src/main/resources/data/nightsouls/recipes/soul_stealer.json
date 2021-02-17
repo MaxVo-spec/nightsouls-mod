@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "THT",
+    "MBM"
+  ],
+  "key": {
+  
+    "H": {
+      "item": "nightsouls:miizealite_hoe"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:miizealite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:soul_stealer"
+  }
+}

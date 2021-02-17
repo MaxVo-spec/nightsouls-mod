@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "minecraft:rotten_flesh"},
+    {"item": "minecraft:bone"},
+    {"item": "minecraft:arrow"},
+    {"item": "minecraft:string"},
+    {"item": "minecraft:spider_eye"},
+    {"item": "minecraft:gunpowder"},
+    {"item": "minecraft:ender_pearl"}
+    
+  ],
+  
+  "result": {
+    "item": "nightsouls:night_soul",
+    "count": 2
+  }
+}

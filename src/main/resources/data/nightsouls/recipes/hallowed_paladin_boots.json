@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "TAT",
+    "SSS"
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:cranite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:cranite_block"
+    },
+    
+    "A": {
+      "item": "nightsouls:cranite_boots"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hallowed_paladin_boots"
+  }
+}

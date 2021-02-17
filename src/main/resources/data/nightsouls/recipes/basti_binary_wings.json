@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ITI",
+    "BEB",
+    "ITI" 
+  ],
+  "key": {
+  
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    
+    "I": {
+      "item": "nightsouls:bastirite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:bastirite_block"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:basti_binary_wings"
+  }
+}

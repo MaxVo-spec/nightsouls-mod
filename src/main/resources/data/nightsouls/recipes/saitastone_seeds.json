@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "STS",
+    " S " 
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:saitastone_seeds",
+    "count": 2
+  }
+}

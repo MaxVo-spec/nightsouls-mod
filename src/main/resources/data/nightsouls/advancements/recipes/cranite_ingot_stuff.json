@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:bone_meal_from_cranite",
+      "nightsouls:cranite_block",
+      "nightsouls:cranite_sword",
+      "nightsouls:cranite_pickaxe",
+      "nightsouls:cranite_axe",
+      "nightsouls:cranite_shovel",
+      "nightsouls:cranite_hoe",
+      "nightsouls:cranite_helmet",
+      "nightsouls:cranite_chestplate",
+      "nightsouls:cranite_leggings",
+      "nightsouls:cranite_boots",
+      "nightsouls:cranite_waraxe",
+      "nightsouls:molten_core",
+      "nightsouls:molten_core2",
+      "nightsouls:amp_it_up",
+      "nightsouls:reinhardt_hammer",
+      "nightsouls:pyro_barbarian_waraxe",
+      "nightsouls:crane_pets_summoning_gem",
+      "nightsouls:totem_of_undying",
+      "nightsouls:toto_africa_music_disc",
+      "nightsouls:kira_music_disc"
+    ]
+  },
+  "criteria": {
+    "has_cranite_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:cranite_ingot"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_cranite_ingot",
+    ]
+  ]
+}

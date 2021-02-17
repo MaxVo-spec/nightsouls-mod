@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "NDN",
+    "GNG"
+  ],
+  "key": {
+  
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    
+    "N": {
+      "item": "nightsouls:night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:nightsouls_lucky_block"
+  }
+}

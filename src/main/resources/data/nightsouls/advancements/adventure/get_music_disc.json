@@ -1,0 +1,90 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "display": {
+    "icon": {
+      "item": "nightsouls:mario_galaxy_sky_station_music_disc"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_music_disc.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_music_disc.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mario_galaxy_sky_station_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:mario_galaxy_sky_station_music_disc"
+          }
+        ]
+      }
+    }, 
+    "mario_galaxy_credits_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:mario_galaxy_credits_music_disc"
+          }
+        ]
+      }
+    },
+    "hopes_and_dreams_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:hopes_and_dreams_music_disc"
+          }
+        ]
+      }
+    },
+    "toto_africa_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:toto_africa_music_disc"
+          }
+        ]
+      }
+    },
+    "kira_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:kira_music_disc"
+          }
+        ]
+      }
+    },
+    "nounours_music_disc": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:nounours_music_disc"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mario_galaxy_sky_station_music_disc",
+      "mario_galaxy_credits_music_disc",
+      "hopes_and_dreams_music_disc",
+      "toto_africa_music_disc",
+      "kira_music_disc",
+      "nounours_music_disc"    
+    ]
+  ]
+}

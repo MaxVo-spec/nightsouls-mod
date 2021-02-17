@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "TAT",
+    "SSS"
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:saitastone_block"
+    },
+    
+    "A": {
+      "item": "nightsouls:saitastone_chestplate"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:milky_way_chestplate"
+  }
+}

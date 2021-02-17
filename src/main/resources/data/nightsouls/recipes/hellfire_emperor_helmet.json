@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "TAT",
+    "MMM"
+  ],
+  "key": {
+  
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "B": {
+      "item": "nightsouls:miizealite_block"
+    },
+    
+    "A": {
+      "item": "nightsouls:miizealite_helmet"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hellfire_emperor_helmet"
+  }
+}

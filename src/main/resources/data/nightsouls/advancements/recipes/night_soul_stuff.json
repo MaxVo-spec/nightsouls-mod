@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:night_soul_pickaxe",
+      "nightsouls:bloodzeal",
+      "nightsouls:moon_charm",
+      "nightsouls:insta_pickaxe",
+      "nightsouls:reinhardt_hammer",
+      "nightsouls:pyro_barbarian_waraxe",
+      "nightsouls:magic_mirror",
+      "nightsouls:nightsouls_lucky_block",
+      "nightsouls:totem_of_undying"
+    ]
+  },
+  "criteria": {
+    "has_night_soul": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:night_soul"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_night_soul",
+    ]
+  ]
+}
